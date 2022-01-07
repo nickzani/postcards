@@ -1,0 +1,17 @@
+---
+title: "Nick Zani"
+image: "NZ2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/nick-zani-18211221/"
+  - label: Blog
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:nicholas.zani@googlemail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
