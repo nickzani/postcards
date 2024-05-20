@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/nick-zani-18211221/"
   - label: Blog
-    url: "https://github.com/"
+    url: "blog/"
   - label: Email
     url: "mailto:nicholas.zani@googlemail.com"
 output:
